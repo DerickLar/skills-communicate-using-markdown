@@ -1,5 +1,3 @@
-# This is a H1 Header
-## This is a H2 Header
-###### This is a H6 Header
-
-I have added three headers of varying size to test how headers are made.
+# This is an `<h1>` header, which is the largest
+## This is an `<h2>` header
+###### This is an `<h6>` header, which is the smallest
